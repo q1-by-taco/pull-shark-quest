@@ -6,7 +6,6 @@
 [![Whitepaper](https://img.shields.io/badge/Report-Autonomous%20CI%2FCD%20Benchmark-blue?style=for-the-badge)](docs/AUTONOMOUS_CI_CD_BENCHMARK_REPORT.md)
 [![Pull Shark Quest](https://img.shields.io/badge/Pull%20Shark-Gold%20Tier%20(128%20PRs)-FFD700?style=for-the-badge&logo=github)](https://github.com/q1-by-taco/pull-shark-quest/pulls?q=is%3Apr+is%3Amerged)
 [![Commits Status](https://img.shields.io/badge/Commits-100%25%20GPG--SSH%20Signed-green?style=for-the-badge&logo=gnupg)](https://github.com/q1-by-taco/pull-shark-quest/commits/main)
-[![Google Antigravity](https://img.shields.io/badge/IDE-Google%20Antigravity-FF6F00?style=for-the-badge&logo=googlecloud)](https://github.com/kreftamarcio)
 [![Discussions](https://img.shields.io/badge/Discussions-Show%20%26%20Tell%20Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/q1-by-taco/pull-shark-quest/discussions/categories/show-and-tell)
 
 <p align="center">
@@ -23,7 +22,7 @@ Confira os artigos e blueprints técnicos detalhados publicados na aba de Discus
 
 * 🚀 **[Showcase: Q1 Autonomous CI/CD Matrix (128 Verified PRs & Evidence-First Architecture)](https://github.com/q1-by-taco/pull-shark-quest/discussions/134)**  
   *Análise aprofundada da esteira serial de branches, conformidade anti-abuso do GitHub e auditoria de contratos.*
-* 🧠 **[Showcase: The Q1 Declarative Skill Compiler (Bridging Anthropic Metaprompt, SDD & DSPy)](https://github.com/q1-by-taco/pull-shark-quest/discussions/135)**  
+* 🧠 **[Showcase: The Q1 Declarative Skill Compiler (Declarative Context Compilers, SDD & Determinism)](https://github.com/q1-by-taco/pull-shark-quest/discussions/135)**  
   *Especificação técnica do compilador algorítmico de prompts, isolamento de delimitadores XML e zero epistemic drift.*
 
 ---
@@ -32,7 +31,6 @@ Confira os artigos e blueprints técnicos detalhados publicados na aba de Discus
 
 ```mermaid
 graph TD
-    A[Agente Autônomo Google Antigravity] -->|Ingestão de Tarefa| B[Meta-Compilador de Prompts Q1]
     B -->|Geração Delimitada| C[Conventional Commits + Assinatura SSH]
     C -->|Branch Atômica| D[Branch quest/step-XXX]
     D -->|Pull Request Aberto| E[PR Guardião / Validação de Integridade]
