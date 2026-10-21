@@ -57,13 +57,13 @@ graph TD
 
 ```
 pull-shark-quest/
-├── quests/                 # 128 artefatos JSON com timestamps UTC e hashes de auditoria
+├── pairs/                  # Artefatos estruturados de benchmarks e sessões de engenharia
+├── quests/                 # 128 artefatos JSON com timestamps UTC e hashes SHA-256 de auditoria
 │   ├── step-001.json
 │   ├── ...
 │   └── step-128.json
-├── run_quest.py            # Script em Python com auto-retry e rebase resiliente
-├── unlock_galaxy_brain.py  # Automação GraphQL para discussões Q&A
-└── README.md               # Apresentação do projeto e índice da esteira
+├── LICENSE                 # Licença de Código Aberto MIT
+└── README.md               # Apresentação da arquitetura e especificações do benchmark
 ```
 
 ---
