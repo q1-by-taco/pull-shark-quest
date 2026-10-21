@@ -3,6 +3,7 @@
 <div align="center">
 
 [![GitHub Organization](https://img.shields.io/badge/Organization-Q1%20by%20TACO-blueviolet?style=for-the-badge&logo=github)](https://github.com/q1-by-taco)
+[![Whitepaper](https://img.shields.io/badge/Report-Autonomous%20CI%2FCD%20Benchmark-blue?style=for-the-badge)](docs/AUTONOMOUS_CI_CD_BENCHMARK_REPORT.md)
 [![Pull Shark Quest](https://img.shields.io/badge/Pull%20Shark-Gold%20Tier%20(128%20PRs)-FFD700?style=for-the-badge&logo=github)](https://github.com/q1-by-taco/pull-shark-quest/pulls?q=is%3Apr+is%3Amerged)
 [![Commits Status](https://img.shields.io/badge/Commits-100%25%20GPG--SSH%20Signed-green?style=for-the-badge&logo=gnupg)](https://github.com/q1-by-taco/pull-shark-quest/commits/main)
 [![Google Antigravity](https://img.shields.io/badge/IDE-Google%20Antigravity-FF6F00?style=for-the-badge&logo=googlecloud)](https://github.com/kreftamarcio)
